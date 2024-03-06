@@ -13,9 +13,9 @@
 
 ### Android Devolpment
 - [PropertyTracker App](https://github.com/Alwalid-Abushanab/Rent)
-- [AssignMate App](https://github.com/UPEI-Android/cs3130-2023-groupprojects-assignmate)
-- [Fake News App](https://github.com/UPEI-Android/cs3130-a1-fakenews-Alwalid-Abushanab)
-- [UPEI News App](https://github.com/UPEI-Android/cs3130-a2-upeinews-Alwalid-Abushanab)
+- [AssignMate App](https://github.com/Alwalid-Abushanab/AssignMate)
+- [Fake News App](https://github.com/Alwalid-Abushanab/FakeNews)
+- [UPEI News App](https://github.com/Alwalid-Abushanab/UPEI-news)
 
   ### Jave Projects
 - [Bubble Bobble Game](https://github.com/Alwalid-Abushanab/BubbleBobble)
